@@ -9,6 +9,7 @@ public class BugTrackerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BugTrackerApplication.class, args);
 		System.out.println("fine");
+		System.out.println("linked to github");
 	}
 
 }
